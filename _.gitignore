@@ -1,0 +1,13 @@
+# Generado por build.sh
+dist/
+
+# Herramientas
+node_modules/
+web-ext-artifacts/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Material interno para las fichas de las tiendas (puede incluir credenciales de prueba)
+STORE*.md
